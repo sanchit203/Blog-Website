@@ -1,0 +1,1 @@
+This is a code to host a blog website locally.
